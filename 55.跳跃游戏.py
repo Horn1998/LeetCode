@@ -22,3 +22,16 @@ def canJump(nums):
         return True
 if __name__ == '__main__':
     canJump( [2,0,1,0,1])
+
+
+#二刷 效率没有之前的高，但是代码量要少-
+def canJump(nums):
+    start, end = 0, 0
+    n = len(nums)
+    while start <= end and end < len(nums - 1):
+        end = max(end, nums[start] + start)
+        start += 1
+    return  end >= n - 1
+
+
+canJump([3,2,1,0,4])
