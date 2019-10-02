@@ -2,44 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43a593-17d9-42d1-95cd-3c6e5f752260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0-127.单词接龙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/129.求根到叶子节点数字之和（深度优先搜索）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134-加油站（贪心算法）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/162.寻找峰值（数组，二分查找）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/187.重复的DNA序列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-130.被围绕的区域(深度优先搜索，并查集）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-137.只出现一次的数字Ⅱ（位运算）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-139.单词拆分(动态规划）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-154.寻找旋转排序数组中的最小值II（数组，二分查找）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-166.分数到小数（哈希表，数学）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200.岛屿数量（深度游先搜索，并查集）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201.数字范围按位与（位运算）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-152.乘积最大子序列（数组，动态规划).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆，栈，数组/150.逆波兰式表达式求值（栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆，栈，数组/153.寻找旋转排序中的最小值（二分查找，数组）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/151.反转字符串里的单词(字符串）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/字符串/165.比较版本号(字符串）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/144.二叉树的前序遍历（树，栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/145.二叉树的后序遍历（树，栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/199.二叉树的右视图（二叉树，深度优先）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0-209.长度最小的子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0-220.存在重复元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-207.课程表(广度优先搜索，拓扑排序）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzz-213.打家劫舍(动态规划）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯法/216.组合总数III(数组，回溯算法）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图/210.课程表（拓扑排序，广度优先）.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-79单词搜索(回溯算法).py" beforeDir="false" afterPath="$PROJECT_DIR$/3-79单词搜索(回溯算法).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102.二叉树的层次遍历（树，广度优先搜索）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/102.二叉树的层次遍历（树，广度优先搜索）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/103.二叉树的锯齿层次遍历（树，栈，广度）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/103.二叉树的锯齿层次遍历（树，栈，广度）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/105.从前序中序构建二叉树(树，深度优先搜索，数组）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/105.从前序中序构建二叉树(树，深度优先搜索，数组）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/106.中序前序构建二叉树(树，深度优先搜索）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/106.中序前序构建二叉树(树，深度优先搜索）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/120.三角形最小路径和(数组，动态规划）.py" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/120.三角形最小路径和(数组，动态规划）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/43.字符串相乘.py" beforeDir="false" afterPath="$PROJECT_DIR$/字符串/43.字符串相乘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/55.跳跃游戏.py" beforeDir="false" afterPath="$PROJECT_DIR$/55.跳跃游戏.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/96不同的二叉搜索树Ⅱ（树，动态规划）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/96不同的二叉搜索树Ⅱ（树，动态规划）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/98.验证二茬搜索树（树，深度游先搜索）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/98.验证二茬搜索树（树，深度游先搜索）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzz95.不同的二叉搜索树(树，动态规划）.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/zzz95.不同的二叉搜索树(树，动态规划）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/36.有效的数独（数组操作）.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆，栈，数组/36.有效的数独（数组操作）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/48 旋转图像（二维数组操作).py" beforeDir="false" afterPath="$PROJECT_DIR$/堆，栈，数组/48 旋转图像（二维数组操作).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/54.螺旋矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆，栈，数组/54.螺旋矩阵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/56.合并区间（排序，数组）.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆，栈，数组/56.合并区间（排序，数组）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组/59.旋转矩阵（数组）.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆，栈，数组/59.旋转矩阵（数组）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文档说明" beforeDir="false" afterPath="$PROJECT_DIR$/文档说明" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,15 +66,15 @@
     <session id="933703510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="4" />
           <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="7" />
@@ -114,52 +83,72 @@
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="100" />
-          <entry key="文档说明" value="6" />
+          <entry key="py" value="106" />
+          <entry key="文档说明" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="100" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="422" />
-          <entry key="py" value="48169" />
+          <entry key="Python Console" value="3" />
+          <entry key="dummy" value="465" />
+          <entry key="py" value="50188" />
           <entry key="文档说明" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="493" />
-          <entry key="Python" value="48169" />
+          <entry key="PLAIN_TEXT" value="536" />
+          <entry key="Python" value="50191" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/201.数字范围按位与（位运算）.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-207.课程表(广度优先搜索，拓扑排序）.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="322">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/回溯法/216.组合总数III(数组，回溯算法）.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0-209.长度最小的子数组.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0-220.存在重复元素.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -177,13 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0-79单词搜索.py" />
-        <option value="$PROJECT_DIR$/0-80.删除排序数组中的重复项.py" />
-        <option value="$PROJECT_DIR$/0-40.组数总和2.py" />
-        <option value="$PROJECT_DIR$/0-81.搜索旋转排序数组Ⅱ.py" />
-        <option value="$PROJECT_DIR$/数组操作.py" />
-        <option value="$PROJECT_DIR$/0-89.格雷编码.py" />
-        <option value="$PROJECT_DIR$/1-89.格雷编码（回溯算法）.py" />
         <option value="$PROJECT_DIR$/0-90.子集.py" />
         <option value="$PROJECT_DIR$/0-98.验证二茬搜索树.py" />
         <option value="$PROJECT_DIR$/0-96不同的二叉搜索树Ⅱ.py" />
@@ -228,6 +210,13 @@
         <option value="$PROJECT_DIR$/树/199.二叉树的右视图（二叉树，深度优先）.py" />
         <option value="$PROJECT_DIR$/200.岛屿数量（深度游先搜索，并查集）.py" />
         <option value="$PROJECT_DIR$/201.数字范围按位与（位运算）.py" />
+        <option value="$PROJECT_DIR$/207.课程表.py" />
+        <option value="$PROJECT_DIR$/210.课程表（拓扑排序，广度优先）.py" />
+        <option value="$PROJECT_DIR$/0-216.组合总数III.py" />
+        <option value="$PROJECT_DIR$/216.组合总数III(数组，回溯算法）.py" />
+        <option value="$PROJECT_DIR$/0-213.打家劫舍.py" />
+        <option value="$PROJECT_DIR$/0-209.长度最小的子数组.py" />
+        <option value="$PROJECT_DIR$/0-220.存在重复元素.py" />
       </list>
     </option>
   </component>
@@ -237,11 +226,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1550" />
-    <option name="height" value="835" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -273,11 +262,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\王祖浩学习集合\算法谜题\回溯法" />
+      <recent name="D:\王祖浩学习集合\算法谜题\图" />
       <recent name="D:\王祖浩学习集合\算法谜题\字符串" />
       <recent name="D:\王祖浩学习集合\算法谜题\堆，栈，数组" />
       <recent name="D:\王祖浩学习集合\算法谜题\动态规划" />
-      <recent name="D:\王祖浩学习集合\算法谜题\树" />
-      <recent name="D:\王祖浩学习集合\算法谜题" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -434,10 +423,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1548" height="832" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18565683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,8 +440,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33142856" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -499,44 +488,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态规划/63不同路径（动态规划）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/64.最小路径和（动态规划）.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/73.矩阵置零.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/二分查找/74.搜索二维矩阵（二分查找）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/75.颜色分类(双指针，排序）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/回溯法/46.全排列（回溯法).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/回溯法/77.组合（回溯算法）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -765,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/文档说明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-154.寻找旋转排序数组中的最小值II（数组，二分查找）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -824,9 +768,50 @@
     <entry file="file://$PROJECT_DIR$/201.数字范围按位与（位运算）.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图/210.课程表（拓扑排序，广度优先）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-207.课程表(广度优先搜索，拓扑排序）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文档说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzz-213.打家劫舍(动态规划）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回溯法/216.组合总数III(数组，回溯算法）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-209.长度最小的子数组.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-220.存在重复元素.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

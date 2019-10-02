@@ -1,4 +1,4 @@
-#time 41.03 room 
+#time 41.03 room 35.00
 def canFinish(numCourses, prerequistes):
     indegrees = [0 for i in range(numCourses)]
     if prerequistes == []:
