@@ -43,6 +43,7 @@ if __name__ == '__main__':
     s = Solution()
     s.exist([["a","a","a","a"],["a","a","a","a"],["a","a","a","a"]],
 "aaaaaaaaaaaa")
+    
 #二刷  time:88.11% room 17.67%
 class Solution:
     directions = [(0, -1), (0,1), (1,0), (-1,0)]#记录方向

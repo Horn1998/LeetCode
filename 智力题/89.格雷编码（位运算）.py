@@ -21,5 +21,25 @@ def grayCode(n):
     #     ans.append(count)
     print(lists)
     return ans
+
+
 if __name__ == '__main__':
     grayCode(3)
+
+
+#官方题解 time 94 room 5
+class Solution:
+    '''
+    关键点：
+    镜像翻转
+    res: 数字n - 1对应的格雷码
+
+    '''
+    def grayCode(self, n: int):
+        res, head = [0], 1 #反转之后在镜像前加一
+        for i in range(n):
+            for j in range(len(res) - 1, -1, -1):#镜像翻转
+                res.append(head + res[j])
+            head <<= 1 #向左移动一位，即在镜像首位加一
+        return res
+
