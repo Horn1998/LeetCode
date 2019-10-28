@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be43a593-17d9-42d1-95cd-3c6e5f752260" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0-274.H指数（智力）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-32.最长有效括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-数据结构学习集合/位图" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-数据结构学习集合/插值法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0-数据结构学习集合/最小二乘法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-H指数II(二分查找）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1230.抛掷硬币（动态规划).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-1511-分享巧克力(二分，最大最小值问题).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-260.只出现一次的数字III(位运算）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-51.N皇后（回溯算法）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-84.柱状图中最大的矩形（单调栈）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-32.最长有效括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5232.替换字串得到平衡子串(双指针）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zzz-1223.掷骰子模拟（动态规划）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/回溯法/52.N皇后II（回溯法）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/堆，栈，数组/1229.安排会议日程(数组).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzz-32.最长有效括号(动态规划）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzz-907.子数组的最小值之和（单调栈）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/堆，栈，数组/41.缺失的第一个整数（数组）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串/76.最小覆盖子串（滑动窗口，字典）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/树/4-99.恢复二叉树（深度优先搜索.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0-40.组数总和2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0-40.组数总和2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-89.格雷编码（回溯算法）.py" beforeDir="false" afterPath="$PROJECT_DIR$/智力题/89.格雷编码（位运算）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-137.只出现一次的数字Ⅱ（位运算）.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-137.只出现一次的数字Ⅱ（位运算）.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-79单词搜索(回溯算法).py" beforeDir="false" afterPath="$PROJECT_DIR$/3-79 单词搜索(回溯算法).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-32.最长有效括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-765.情侣牵手（并查集）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-85.最大矩形(动态规划，单调栈，数组）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-32.最长有效括号(动态规划）.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +68,7 @@
     <session id="933703510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.16" value="1" />
@@ -92,7 +78,7 @@
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="6" />
-          <entry key="project.open.time.22" value="5" />
+          <entry key="project.open.time.22" value="6" />
           <entry key="project.open.time.23" value="7" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
@@ -106,39 +92,41 @@
           <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="73" />
+          <entry key="project.opened" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="145" />
+          <entry key="java" value="1" />
+          <entry key="py" value="153" />
           <entry key="位图" value="1" />
-          <entry key="文档说明" value="15" />
+          <entry key="文档说明" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="145" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="153" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
-          <entry key="dummy" value="597" />
-          <entry key="py" value="55923" />
+          <entry key="dummy" value="633" />
+          <entry key="py" value="57155" />
           <entry key="位图" value="149" />
           <entry key="文档说明" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="817" />
-          <entry key="Python" value="55926" />
+          <entry key="PLAIN_TEXT" value="853" />
+          <entry key="Python" value="57158" />
         </counts>
       </usages-collector>
     </session>
@@ -171,48 +159,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0-127.单词接龙.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0-32.最长有效括号.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/文档说明">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/树/4-99.恢复二叉树（深度优先搜索.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4-32.最长有效括号.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0-40.组数总和2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -222,6 +173,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="yet_unknown" />
         <option value="Python Script" />
       </list>
     </option>
@@ -232,13 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/165.比较版本号.py" />
-        <option value="$PROJECT_DIR$/187.重复的DNA序列.py" />
-        <option value="$PROJECT_DIR$/2-166.分数到小数（哈希表，数学）.py" />
-        <option value="$PROJECT_DIR$/树/199.二叉树的右视图（二叉树，深度优先）.py" />
-        <option value="$PROJECT_DIR$/200.岛屿数量（深度游先搜索，并查集）.py" />
-        <option value="$PROJECT_DIR$/201.数字范围按位与（位运算）.py" />
-        <option value="$PROJECT_DIR$/207.课程表.py" />
         <option value="$PROJECT_DIR$/210.课程表（拓扑排序，广度优先）.py" />
         <option value="$PROJECT_DIR$/0-216.组合总数III.py" />
         <option value="$PROJECT_DIR$/216.组合总数III(数组，回溯算法）.py" />
@@ -279,10 +224,17 @@
         <option value="$PROJECT_DIR$/0-数据结构学习集合/插值法.py" />
         <option value="$PROJECT_DIR$/0-数据结构学习集合/最小二乘法.py" />
         <option value="$PROJECT_DIR$/0-分享巧克力.py" />
-        <option value="$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py" />
         <option value="$PROJECT_DIR$/3-84.柱状图中最大的矩形.py" />
         <option value="$PROJECT_DIR$/3-84.柱状图中最大的矩形（单调栈）.py" />
         <option value="$PROJECT_DIR$/4-32.最长有效括号.py" />
+        <option value="$PROJECT_DIR$/4-32.最长有效括号(动态规划）.py" />
+        <option value="$PROJECT_DIR$/堆，栈，数组/41.缺失的第一个整数（数组）.py" />
+        <option value="$PROJECT_DIR$/4-85.最大矩形.py" />
+        <option value="$PROJECT_DIR$/4-85.最大矩形(动态规划，单调栈，数组）.py" />
+        <option value="$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py" />
+        <option value="$PROJECT_DIR$/1-765.情侣牵手（并查集）.py" />
+        <option value="$PROJECT_DIR$/字符串/76.最小覆盖子串（滑动窗口，字典）.py" />
+        <option value="$PROJECT_DIR$/树/4-99.恢复二叉树（深度优先搜索.py" />
       </list>
     </option>
   </component>
@@ -293,8 +245,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1943" />
-    <option name="height" value="1103" />
+    <option name="x" value="-9" />
+    <option name="width" value="1934" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -487,10 +440,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1554" height="882" extended-state="0" />
+    <frame x="-7" y="0" width="1547" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2105615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20349228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -504,7 +457,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3490701" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -529,48 +482,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2-130.被围绕的区域(深度优先搜索，并查集）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/堆，栈，数组/153.寻找旋转排序中的最小值（二分查找，数组）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-152.乘积最大子序列（数组，动态规划).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-154.寻找旋转排序数组中的最小值II（数组，二分查找）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/堆，栈，数组/162.寻找峰值（数组，二分查找）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/字符串/165.比较版本号(字符串）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/未分类/187.重复的DNA序列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -777,13 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-90(回溯算法）.子集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0-test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -813,6 +717,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2-90(回溯算法）.子集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzz-32.最长有效括号(动态规划）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-127.单词接龙.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-32.最长有效括号.py" />
+    <entry file="file://$PROJECT_DIR$/4-85.最大矩形(动态规划，单调栈，数组）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzz-907.子数组的最小值之和（单调栈）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3-79 单词搜索(回溯算法).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
@@ -830,28 +770,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0-数据结构学习集合/最小二乘法.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0-907.子数组的最小值之和（单调栈）.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/0-40.组数总和2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="483">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0-127.单词接龙.py">
+    <entry file="file://$PROJECT_DIR$/堆，栈，数组/41.缺失的第一个整数（数组）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0-32.最长有效括号.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/文档说明">
       <provider selected="true" editor-type-id="text-editor">
@@ -860,10 +791,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-32.最长有效括号.py">
+    <entry file="file://$PROJECT_DIR$/1-765.情侣牵手（并查集）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <marker date="1572181331579" expanded="true" signature="77:86" ph="..." />
+            <marker date="1572181331579" expanded="true" signature="247:284" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符串/76.最小覆盖子串（滑动窗口，字典）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/4-99.恢复二叉树（深度优先搜索）.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0-数据结构学习集合/最小二乘法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/4-99.恢复二叉树（深度优先搜索.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
